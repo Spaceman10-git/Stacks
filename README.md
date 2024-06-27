@@ -13,8 +13,6 @@
 
 ## STACKS
 
-If you prefer to run STACKS on your own infrastructure, please find further instructions in the [Self-hosting](#self-hosting) section.
-
 ## Why??
 
 THIS is for you if you are...
@@ -41,11 +39,7 @@ THIS is for you if you are...
 - ✅ Zen Mode
 - ✅ Progressive Web App (PWA) with a mobile-first design
 
-<div align="center">
 
-<img src="./apps/client/src/assets/images/screenshot.png" width="300" alt="Image of a phone showing the Ghostfolio app open">
-
-</div>
 
 ## Technology Stack
 
