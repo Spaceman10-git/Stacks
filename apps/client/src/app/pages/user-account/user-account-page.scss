@@ -1,0 +1,7 @@
+:host {
+  color: rgb(var(--dark-primary-text));
+}
+
+:host-context(.is-dark-theme) {
+  color: rgb(var(--light-primary-text));
+}
